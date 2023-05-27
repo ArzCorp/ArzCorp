@@ -1,5 +1,6 @@
 <p>I am web software developer, student in platzi and frontend developer in Sngular</p>
 <p>I can create web pages using technologies:</p>
+<h3>Frontend</h1>
 <ul>
   <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
@@ -17,6 +18,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
     Lit Element
   </li>
+</ul>
+<h3>Backend</h3>
+<ul>
   <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
     Node Js
@@ -25,7 +29,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
     Express
   </li>
+  <li>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
+    MySQL
+  </li>
 </ul>
+
 
 ### :fire: My Stats
 
