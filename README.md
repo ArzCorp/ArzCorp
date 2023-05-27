@@ -1,5 +1,10 @@
-<p>I am web software developer, student in platzi and frontend developer in Sngular</p>
-<p>I can create web pages using technologies:</p>
+<h2>
+  Hi I'm Osvaldo Arzate Santiago - Software developer
+</h2>
+<p>
+  I am web software developer, student in platzi and frontend developer in Sngular </br>
+  I can create web pages using technologies:
+</p>
 <h3>Frontend</h1>
 <ul>
   <li>
